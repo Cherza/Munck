@@ -1,0 +1,85 @@
+h1{
+    font-size: 63px;
+    color:rgb(255, 255, 255);
+    padding: 20px;
+    text-align: center;
+}
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+p{
+    font-size: 25px;
+    letter-spacing: 4px;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 40px;
+}
+
+.wpp{
+    margin: 45px;
+    color: rgb(255, 255, 255);
+}
+
+
+table{
+    width: 100%;
+}
+
+table td{
+    color: #303030;
+    padding: 5px;
+}
+
+table tr:nth-child(even){
+    background-color: #e9e9e9;
+}
+
+table tr:nth-child(odd){
+    background-color: #dbdbdb;
+}
+
+table thead th{
+    background-color: #5da8ae	;
+    color: white;
+}
+
+.navbar-brand{
+    color: rgb(255, 255, 255);
+}
+
+.nav-link{
+    color: rgb(255, 255, 255);
+}
+
+#Serviços{
+    color: white;
+}
+body{
+    background-color: #74b6f0;
+}
+
+#textoImagem{
+    background-color: #74b6f0;
+}
+
+#orçamento{
+    color: black;
+}
+
+#textoTabela{
+    color: #74b6f0  ;
+}
+
+.card{
+    color: white;
+    background-color:#74b6f0;
+}
+
+#exampleModalLabel{
+    color: #74b6f0;
+}
